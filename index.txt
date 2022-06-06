@@ -1,0 +1,247 @@
+Wildvine - Give Love for Saving World Animals
+
+
+
+#---------- HEADER ----------#
+
+Wildvine
+
+English
+French
+Spanish
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+
+aria-label = Close Menu
+<ion-icon name="close-outline"></ion-icon>
+
+Wildvine
+
+Home
+<ion-icon name="chevron-forward-outline" aria-hidden="true"></ion-icon>
+
+About
+Service
+Donate
+Event
+Contact
+
+arial-label = Search
+<ion-icon name="search-outline"></ion-icon>
+
+Donation
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+alt = Wavy line
+Welcome to Wildvine
+
+Give Love for Saving
+World Animals
+
+Sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua suspendisse ultrices gravida.
+
+Donation
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FEATURES ----------#
+
+<ion-icon name="shield-checkmark-outline"></ion-icon>
+
+Safe Shelter
+
+Sit amet consecte adiscine
+eiusm temor ultrices.
+
+<ion-icon name="water-outline"></ion-icon>
+
+Safe Water
+
+<ion-icon name="leaf-outline"></ion-icon>
+
+Ecology Save
+
+<ion-icon name="snow-outline"></ion-icon>
+
+Environment
+
+
+
+#---------- ABOUT ----------#
+
+About Us
+
+alt = Tiger
+alt = Panda
+alt = Elephant
+alt = Deer
+
+alt = Wavy line
+Why Choose Us
+
+Rise Your Hand to Save
+World Animals Life
+
+Our Mission
+Our Vision
+Next Plan
+
+But I must explain to you how all this mistaken denouncing pleasure and praising pain was born and I will give you a complete account of the system expoundmaster
+
+<ion-icon name="checkmark-circle"></ion-icon>
+Charity For Foods
+Charity For Education
+Charity For Water
+Charity For Medical
+
+Learn More Us
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- CTA ----------#
+
+324+ Trusted Global Partners
+
+Become a Partner
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+
+alt = Fox
+
+
+
+#---------- SERVICE ----------#
+
+What We Do
+
+We Work Differently to
+keep The World Safe
+
+<ion-icon name="leaf-outline"></ion-icon>
+Save Nature
+
+Tempor incididunt ut labores
+dolore magna suspene
+
+Read More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+<ion-icon name="earth-outline"></ion-icon>
+Save Ecology
+
+<ion-icon name="flower-outline"></ion-icon>
+Tree Plantation
+
+<ion-icon name="boat-outline"></ion-icon>
+Clear Ocean
+
+
+
+#---------- DONATE ----------#
+
+alt = Elephant
+
+Raised
+$256
+83%
+
+Raise Hand To Save Animals
+
+Goal
+$34562
+
+Raise
+$562
+
+To Go 
+$864
+
+Donation
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- TESTIMONIALS ----------#
+
+Our Testimonials
+
+What People Say About
+Our Organization
+
+alt = David S. Neuman
+
+Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium totam rem aperiam eaquesa quae abillo inventore veritatis quasi architecto beatae vitae dicta sunt explicabo enimpsam voluptatem
+
+David S. Neuman
+
+Business Manager
+
+alt = Rhinoceros
+
+
+
+#---------- PARTNER ----------#
+
+alt = Children Fund
+alt = Non Profit Agency
+alt = Rise Hand Help Us
+alt = Helping
+alt = Poor Fund Organization
+
+
+
+#---------- EVENT ----------#
+
+Event & Program
+
+Our Most Popular Causes For
+Building Fund
+
+Jan
+05
+
+Ocean Water
+
+Far from the countries Vokalia and Consonantia 2022
+
+Sit amet consectetur adipiscing elit sed do eiusmod tempor
+
+View Events
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Feb
+23
+
+Mar
+27
+
+Learn More Us
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- INSTA POST ----------#
+
+alt = Lion
+
+<ion-icon name="logo-instagram"></ion-icon>
+
+alt = Deer
+alt = Wild Bear
+alt = Deer
+alt = Horses
+
+
+
+#---------- FOOTER ----------#
+
+Terms of use
+Privacy & Policy
+
+Copyright 2022 codewithsadee. All Rights Reserved.
